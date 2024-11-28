@@ -1,0 +1,11 @@
+{
+  "name": "backend-of-ecommerce",
+  "version": "1.0.0",
+  "description": "A Vendor E-Commerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahajid Hossan Rafi",
+  "license": "ISC"
+}
